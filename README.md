@@ -21,13 +21,14 @@
 - Following are the different steps followed to arive at the Conclusions.
     - Problem Statement
     - Step1: Data Sourcing
-    - Step 2: EDA
+    - Step2: EDA
     - Step3: Preparing data for Linear Regression
     - Step4: Linear Regression Model Building
     - Step5: Ridge and Lasso Regression
     - Conclusion
 	
-- Following are inferences from EDAThe R Square test of both Ridge and lasso regressions are better than Linear regression
+- Following are conclusions from Regularization
+	- The R Square of both Ridge and lasso regressions are better than Linear regression
     - All the metrics of Lasso and Ridge regressions are same
     - Lasso regression has less variables compared to Ridge regression.
     - Hence selecting Lasso Regression as final regression.
